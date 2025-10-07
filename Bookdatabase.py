@@ -1,6 +1,4 @@
-from typing import List, Tuple
-
-movie_db: List[Tuple[str, str, int, List[str]]] = [
+movie_db: list[tuple[str, str, int, list[str]]] = [
     (
         "amarcord",  # title
         "federico fellini",  # director
