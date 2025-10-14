@@ -1,12 +1,3 @@
-# the content of the movie database is taken from the textbook Concrete Abstractions: An
-# Introduction to Computer Science Using Scheme, by Max Hailperin, Barbara Kaiser, and
-# Karl Knight, Copyright (c) 1998 by the authors. Full text is available for free at
-# http://www.gustavus.edu/+max/concrete-abstractions.html
-
-# the Scheme file, Revision 1.3 as of 2005/12/20 14:09:37, has been reformated for
-# Python. The original file is available as
-# http://www.gustavus.edu/academics/mcs/max/concabs/code/movie.scm
-
 # list of tuples w/ following format (the first tuple in the list is also annotated):
 # each tuple contains title, director, year and actors/actresses
 # `[(title, director, year, [actress_one, actor_two, ...]), ...]`
