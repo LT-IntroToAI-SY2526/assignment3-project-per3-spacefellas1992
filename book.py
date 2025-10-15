@@ -3,7 +3,7 @@
 # `[(title, director, year, [actress_one, actor_two, ...]), ...]`
 from typing import List, Tuple
 
-movie_db: List[Tuple[str, str, int, List[str]]] = [
+book_db: List[Tuple[str, str, int, List[str]]] = [
      (
         "tom sawyer",  # title
         "mark twain",  # author
